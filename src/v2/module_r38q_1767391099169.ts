@@ -1,0 +1,1 @@
+const util_r38q = (d: any) => d;
